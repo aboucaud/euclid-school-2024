@@ -62,6 +62,13 @@ An alternative is to try [the notebook on Google Colab](https://colab.research.g
 
 ### Cycle 3 - Tuesday 27th 2:00pm
 
+[Simulation Based Inference for cosmology](notebooks/sbi_LtU_MHo.ipynb)
+
+<a target="_blank" href="https://colab.research.google.com/github/aboucaud/euclid-school-2024/blob/main/notebooks/sbi_LtU_MHo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+based on an example notebook by Matt Ho and additional exercices using the CAMELS public dataset (see refs).
 <!-- 
 > [!WARNING]
 > For cycle 2 and 3, those not using Google Colab links must first run the [dataset creation](datasets/README.md) steps below before starting with the notebooks. 
@@ -70,8 +77,6 @@ An alternative is to try [the notebook on Google Colab](https://colab.research.g
 
 ## References
 
-- TBD
-<!-- 
-- https://arxiv.org/abs/2201.02202
-- https://camels.readthedocs.io/en/latest/index.html 
--->
+<!-- - https://arxiv.org/abs/2201.02202 -->
+- [](https://github.com/maho3/ltu-ili)
+- [CAMELS data](https://camels.readthedocs.io/en/latest/index.html)
