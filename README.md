@@ -12,8 +12,7 @@
 ### Cycle 2 - Wednesday 28th 9:00am and Friday 30th 11:00am
 
 - Convolutional neural networks, graphs, transformers and the attention mechanism
-<!-- 
-- [Introduction and neural networks recap from cycle 1](https://aboucaud.github.io/slides/2023/euclid-school-ml-cycle2) - _HTML slides_ -->
+- [Introduction and neural networks recap from cycle 1](https://aboucaud.github.io/slides/2024/euclid-school-ml-cycle2) - _HTML slides_
 <!-- - [Probabilistic neural networks](slides/cycle2_cours1_2023.pdf) - _PDF_
 - [Convolutional networks](slides/cycle2_cours2a_2023.pdf) - _PDF_
 - [Image2image networks and Transformers](slides/cycle2_cours2b_2023.pdf) - _PDF_
