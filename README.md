@@ -78,5 +78,5 @@ based on an example notebook by Matt Ho and additional exercices using the CAMEL
 ## References
 
 <!-- - https://arxiv.org/abs/2201.02202 -->
-- [](https://github.com/maho3/ltu-ili)
+- [Learning the Universe Implicit Likelihood Inference pipeline - Matt Ho](https://github.com/maho3/ltu-ili)
 - [CAMELS data](https://camels.readthedocs.io/en/latest/index.html)
