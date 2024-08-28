@@ -7,22 +7,23 @@
 
 ### Cycle 1 - Thursday 29th 9:00am
 
-- Introduction to machine learning with (probabilistic) neural networks
+- [Introduction to machine learning with (probabilistic) neural networks](https://aboucaud.github.io/slides/2024/euclid-school-ml-cycle1) - _HTML slides_
 
 ### Cycle 2 - Wednesday 28th 9:00am and Friday 30th 11:00am
 
-- Convolutional neural networks, graphs, transformers and the attention mechanism
+_Convolutional neural networks, graphs, transformers and the attention mechanism_
+
 - [Introduction and neural networks recap from cycle 1](https://aboucaud.github.io/slides/2024/euclid-school-ml-cycle2) - _HTML slides_
-<!-- - [Probabilistic neural networks](slides/cycle2_cours1_2023.pdf) - _PDF_
+<!-- - [Probabilistic neural networks](slides/cycle2_cours1_2023.pdf) - _PDF_ -->
 - [Convolutional networks](slides/cycle2_cours2a_2023.pdf) - _PDF_
-- [Image2image networks and Transformers](slides/cycle2_cours2b_2023.pdf) - _PDF_
-- [Attention mechanism and Graph networks](slides/cycle2_cours2c_2023.pdf) - _PDF_ -->
+<!-- - [Image2image networks and Transformers](slides/cycle2_cours2b_2023.pdf) - _PDF_ -->
+<!-- - [Attention mechanism and Graph networks](slides/cycle2_cours2c_2023.pdf) - _PDF_ -->
 <!-- - [Introduction to MLOps](https://aboucaud.github.io/slides/2023/euclid-school-mlops) - _HTML slides_
 -->
 
 ### Cycle 3 - Monday 26th 11:00am
 
-- Generative and Foundation models
+_Generative, Foundation models and Simulation-based inference (SBI)_
 
 ## Notebooks
 
