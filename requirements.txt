@@ -5,3 +5,7 @@ tensorflow-datasets
 tensorflow-probability
 seaborn
 mlflow
+torch
+torchvision
+albunentations
+datasets
