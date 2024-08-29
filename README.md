@@ -56,8 +56,8 @@ python -m pip install -r requirements.txt
 
 ### Cycle 3 - Tuesday 27th 2:00pm
 
-- [Simulation Based Inference for cosmology](notebooks/sbi_LtU_MHo.ipynb)  
-[![][colab]](https://colab.research.google.com/github/aboucaud/euclid-school-2024/blob/main/notebooks/cycle3_sbi_LtU_MHo.ipynb)
+- [Simulation Based Inference for cosmology](notebooks/cycle3-sbi_LtU_MHo.ipynb)  
+[![][colab]](https://colab.research.google.com/github/aboucaud/euclid-school-2024/blob/main/notebooks/cycle3-sbi_LtU_MHo.ipynb)
 
 based on an example notebook by Matt Ho and additional exercices using the CAMELS public dataset (see refs).
 
