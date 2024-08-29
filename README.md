@@ -54,6 +54,9 @@ python -m pip install -r requirements.txt
 - [Galazy zoo image classification](notebooks/cycle2-gzoo-image-classification.ipynb)  
 [![][colab]](https://colab.research.google.com/github/aboucaud/euclid-school-2024/blob/main/notebooks/cycle2-gzoo-image-classification.ipynb)
 
+- [Galazy zoo image classification - with fine tuning](notebooks/cycle2-gzoo-classification-finetuning.ipynb)  
+[![][colab]](https://colab.research.google.com/github/aboucaud/euclid-school-2024/blob/main/notebooks/cycle2-gzoo-classification-finetuning.ipynb)
+
 ### Cycle 3 - Tuesday 27th 2:00pm
 
 - [Simulation Based Inference for cosmology](notebooks/cycle3-sbi_LtU_MHo.ipynb)  
