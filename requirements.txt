@@ -1,11 +1,12 @@
 numpy
 matplotlib
 tensorflow
+tf_keras
 tensorflow-datasets
 tensorflow-probability
 seaborn
 mlflow
 torch
 torchvision
-albunentations
+albumentations
 datasets
